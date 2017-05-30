@@ -266,3 +266,4 @@ testFiles/
 
 AdvancedProgramming-HW2/AdvancedProgramming-HW2.vcxproj
 AdvancedProgramming-HW2/AdvancedProgramming-HW2.vcxproj.filters
+*.txt

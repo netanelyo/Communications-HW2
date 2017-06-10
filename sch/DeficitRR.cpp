@@ -1,6 +1,7 @@
 #include "RoundRobin.h"
 #include "UtilStructs.h"
 
+#include <sstream>
 #include <fstream>
 
 void insertPacketToQueue(const vector<string>& parameters, DrrParams& drrParams, int quantum, int weight)

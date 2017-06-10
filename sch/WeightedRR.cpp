@@ -2,7 +2,6 @@
 #include "UtilStructs.h"
 
 #include <fstream>
-#include <iostream>
 
 void insertPacketToQueue(const vector<string>& parameters, WrrParams& wrrParams, int weight)
 {
